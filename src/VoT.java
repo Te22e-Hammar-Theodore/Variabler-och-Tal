@@ -6,6 +6,8 @@ public class VoT {
         int tal2 = 45;
         int summa;
         int produkt;
+        summa =tal1+tal2;
+        
 
 
     }
