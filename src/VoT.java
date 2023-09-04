@@ -11,8 +11,10 @@ public class VoT {
 
         System.err.println("Uppgift B");
 
+        double tal3 = 234232;
+        int tal4 = 3424;
         
 
-
+ 
     }
 }
