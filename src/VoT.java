@@ -9,6 +9,10 @@ public class VoT {
         summa =tal1+tal2;
         System.out.println(tal1+"+" + tal2 + "="+summa);
 
+        System.err.println("Uppgift B");
+
+        
+
 
     }
 }
