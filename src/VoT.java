@@ -13,7 +13,8 @@ public class VoT {
 
         double tal3 = 234232;
         int tal4 = 3424;
-        
+        produkt=tal1*tal2;
+        System.out.println(tal3+"*" + tal4 + "="+produkt);
 
  
     }
