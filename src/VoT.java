@@ -24,6 +24,9 @@ public class VoT {
         kvot=tal6/tal5;
         System.out.println(tal6+"/" + tal5 + "="+kvot);
 
+        System.out.println("Uppgift D");
+        
+
 
 
  
