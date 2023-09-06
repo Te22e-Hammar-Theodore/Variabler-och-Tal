@@ -9,12 +9,18 @@ public class VoT {
         summa =tal1+tal2;
         System.out.println(tal1+"+" + tal2 + "="+summa);
 
-        System.err.println("Uppgift B");
+        System.out.println("Uppgift B");
 
-        double tal3 = 234232;
+        int tal3 = 234232;
         int tal4 = 3424;
-        produkt=tal1*tal2;
+        produkt=tal3*tal4;
         System.out.println(tal3+"*" + tal4 + "="+produkt);
+
+        System.out.println("Uppgift C");
+
+        
+
+
 
  
     }
